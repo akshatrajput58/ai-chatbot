@@ -8,22 +8,22 @@ This is a Responsive (Chatbot) chatgpt clone which uses openai api and build wit
 
 ## Screenshots
 
-![Form Screenshot](https://github.com/akshatrajput58/chatbot-chatgpt-clone/blob/main/Documentation/01_preview1.jpg)
+![Form Screenshot](https://github.com/akshatrajput58/ai-chatbot/blob/main/Documentation/01_preview1.jpg)
 
-![Form Screenshot](https://github.com/akshatrajput58/chatbot-chatgpt-clone/blob/main/Documentation/02_preview2.jpg)
+![Form Screenshot](https://github.com/akshatrajput58/ai-chatbot/blob/main/Documentation/02_preview2.jpg)
 
-![Form Screenshot](https://github.com/akshatrajput58/chatbot-chatgpt-clone/blob/main/Documentation/03_preview3.jpg)
+![Form Screenshot](https://github.com/akshatrajput58/ai-chatbot/blob/main/Documentation/03_preview3.jpg)
 
-![Form Screenshot](https://github.com/akshatrajput58/chatbot-chatgpt-clone/blob/main/Documentation/04_preview4.jpg)
+![Form Screenshot](https://github.com/akshatrajput58/ai-chatbot/blob/main/Documentation/04_preview4.jpg)
 
-![Form Screenshot](https://github.com/akshatrajput58/chatbot-chatgpt-clone/blob/main/Documentation/05_closeup.jpg)
+![Form Screenshot](https://github.com/akshatrajput58/ai-chatbot/blob/main/Documentation/05_closeup.jpg)
 
 
 
 
 ## Installation dependency
 
-Install dependency of chatbot-chatgpt-clone with npm
+Install dependency of ai-chatbot with npm
 
 ```bash
   npm install
